@@ -1,7 +1,7 @@
 London Nodeschool
 =================
 
-London Nodeschool is hosted by @iancrowther, along with the ever prescent @orliesaurus and @simonmcmanus.
+London Nodeschool is hosted by [@iancrowther](http://twitter.com/iancrowther), along with the ever present [@orliesaurus](http://twitter.com/orliesaurus) and [@simonmcmanus](http://twitter.com/simonmcmanus).
 
 Check out the branches to see past event details.
 
