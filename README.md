@@ -15,6 +15,8 @@ If you would like to help by mentoring or sponsoring us then please get in touch
 
 Check out the branches to see past event details.
 
+Tweet photos & updates using the hashtag #nodeschool-london
+
 ## Mentors
 If you have been or are mentoring at an event, please add yourself to [mentors.md]()
 
