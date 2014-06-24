@@ -1,8 +1,12 @@
-nodeschoolldn
-=============
+London Nodeschool
+=================
 
-london nodeschool
+London Nodeschool is hosted by [@iancrowther](http://twitter.com/iancrowther), along with the ever present [@orliesaurus](http://twitter.com/orliesaurus) and [@simonmcmanus](http://twitter.com/simonmcmanus).
 
-[![Gitter chat](https://badges.gitter.im/iancrowther/nodeschool-london.png)](https://gitter.im/iancrowther/nodeschool-london)
+Check out the branches to see past event details.
 
-#### #irc https://gitter.im/iancrowther/nodeschool-london
+If you would like to help by mentoring or sponsoring us then please get in touch, your most welcome.
+
+[![Gitter chat](https://badges.gitter.im/nodeschool/london.png)](https://gitter.im/nodeschool/london)
+
+#### #irc https://gitter.im/nodeschool/london
