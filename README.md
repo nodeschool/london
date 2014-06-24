@@ -8,7 +8,8 @@ If you would like to help by mentoring or sponsoring us then please get in touch
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/london.png)](https://gitter.im/nodeschool/london)
 
-#### #irc https://gitter.im/nodeschool/london
+- #irc https://gitter.im/nodeschool/london
+- #twitter http://twitter.com/nodeschool
 
 ## Events
 
