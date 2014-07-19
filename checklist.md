@@ -1,1 +1,5 @@
+#before
+- slides
+
+#during
 - photos
