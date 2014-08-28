@@ -8,3 +8,4 @@
 - [Adam Yeats](http://twitter.com/adamyeats)
 - [Ollie Relph](http://twitter.com/ollieRelph)
 - [Owen Barnes](http://twitter.com/temporalwave)
+- [Micheil Smith](http://twitter.com/miksago)
