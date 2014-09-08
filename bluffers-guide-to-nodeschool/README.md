@@ -28,10 +28,10 @@ Briefly explain pair-programming, and do the following as a pair, 1 typing, 1 ex
 - `cd nodeshool/learnyounode-answers`
 - `learnyounode`
 - Select the first challenge and walk people through the challenge
-- Copy the the text for the task
 - Make a new file in your preferred text editor
 - `01-hello-world.js`
-- Write out the code for it, but leave in a syntax error and a challenge error.
+- Copy the the text for the challenge into it as a comment header
+- Write out the code for a solution, but leave in a syntax error and a challenge error.
 - `console.print('Hello World')`
 - Explain that we've just written a node.js script. Show that we can run
 it (and any node script) via `node 01-hello-world.js`
