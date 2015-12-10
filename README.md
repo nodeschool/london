@@ -4,6 +4,7 @@ London Nodeschool is hosted by:
 - [@olizilla](http://twitter.com/olizilla)
 - [@_alanshaw](http://twitter.com/_alanshaw)
 - [@orliesaurus](http://twitter.com/orliesaurus)
+- [@ezodude](http://twitter.com/ezodude)
 
 ## Contact
 If you would like to help by mentoring or sponsoring us then please get in touch, everyone is welcome.
