@@ -19,7 +19,7 @@ http://twitter.com/nodeschool
 If you have been or are mentoring at an event, please add yourself to [mentors.md](https://github.com/nodeschool/london/blob/master/mentors.md)
 
 ## Past Events
-Check out the repo branches to see details of past event.
+Check out the events folder to see details of past event.
 
 ## Catering
 If you have any catering ideas, or can provide catering to this event, please add yourself to [catering.md](https://github.com/nodeschool/london/blob/master/catering.md)
