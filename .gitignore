@@ -1,0 +1,5 @@
+node_modules/*
+
+####
+# Mac Floaties
+**/*.DS_Store
