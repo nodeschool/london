@@ -10,3 +10,4 @@
 - [Owen Barnes](http://twitter.com/temporalwave)
 - [Nelson Correia](https://twitter.com/nelsonic)
 - [Micheil Smith](http://twitter.com/miksago)
+- [Benjamin August](http://twitter.com/BenAug)
