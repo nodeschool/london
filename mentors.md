@@ -1,5 +1,6 @@
 - [Alan Shaw](http://twitter.com/_alanshaw)
 - [Ben Evans](http://twitter.com/bencevans)
+- [Benjamin August](http://twitter.com/BenAug)
 - [Ian Crowther](http://twitter.com/iancrowther)
 - [Imre Fazekas](http://twitter.com/imrefazekas)
 - [Nelson Correia](https://twitter.com/nelsonic)
@@ -8,4 +9,3 @@
 - [Owen Barnes](http://twitter.com/temporalwave)
 - [Simon McManus](http://twitter.com/simonmcmanus)
 - [Tim Ruffles](http://twitter.com/timruffles)
-- [Benjamin August](http://twitter.com/BenAug)
