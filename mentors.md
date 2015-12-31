@@ -9,3 +9,4 @@
 - [Owen Barnes](http://twitter.com/temporalwave)
 - [Simon McManus](http://twitter.com/simonmcmanus)
 - [Tim Ruffles](http://twitter.com/timruffles)
+- [Jon Kelly](http://twitter.com/jsnightowl)
