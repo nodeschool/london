@@ -142,3 +142,17 @@ p{
 div.term ~ div.term {
   margin-left: 50px;
 }
+
+.centered{
+	text-align: center;
+}
+
+.gitter-badge{
+  height: 20px;
+  width: 100%;
+}
+
+.tito-badge{
+  height: 40px;
+  width: 100%;
+}

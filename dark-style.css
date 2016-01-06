@@ -230,3 +230,25 @@ a:hover{
     margin-left: 50px;
   }
 }
+
+.centered{
+	text-align: center;
+}
+
+.gitter-badge{
+  height: 20px;
+  width: 100%;
+}
+
+.tito-badge{
+  height: 80px;
+  width: 100%;
+}
+
+.tito-badge img,
+.gitter-badge img{
+  width: 88px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
