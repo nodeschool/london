@@ -252,3 +252,32 @@ a:hover{
   margin-left: auto;
   margin-right: auto
 }
+
+.image_container {
+    display: inline-block;
+    width: 8rem;
+    height: 8rem;
+	overflow: hidden;
+}
+
+.image_gallery img{
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+
+.image_gallery img{
+	min-width:8rem;
+    min-height:8rem;
+	max-width:12rem;
+    max-height:12rem;
+    width: auto;
+    height: auto;
+}
+
+.image_gallery img:hover{
+	max-width:16rem;
+    max-height:16rem;
+}
