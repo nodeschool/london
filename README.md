@@ -5,7 +5,9 @@ Open source workshops that teach web software skills. Do them on your own or at 
 If you would like to help by mentoring or sponsoring us then contact us at [london@nodeschool.io](mailto:london@nodeschool.io).
 
 ### Twitter 
-We are [@nodeschool_ldn](https://twitter.com/nodeschool_ldn), use the hashtag [#nodeschool-ldn](https://twitter.com/search?q=nodeschool-london) for photos and event discovery.  For broader news follow [@nodeschool](http://twitter.com/nodeschool)
+We are [@nodeschool_ldn](https://twitter.com/nodeschool_ldn), please use the hashtag [#nodeschool-ldn](https://twitter.com/search?q=nodeschool-london) for photos and event discovery.  
+
+For broader news follow [@nodeschool](http://twitter.com/nodeschool)
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/london.png)](https://gitter.im/nodeschool/london)
 
