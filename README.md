@@ -10,11 +10,17 @@ Follow us on Twitter at [@nodeschool_ldn](https://twitter.com/nodeschool_ldn) us
 
 http://twitter.com/nodeschool
 
+## Feedback
+Did you enjoy the event? [Let us know!](https://github.com/nodeschool/london/blob/master/feedback.md) We appreciate the love, but really want to know how we can improve.
+
+## Organizing a Nodeschool
+Please familiarize yourself with the [Bluffer's Guide](https://github.com/nodeschool/london/blob/master/resources/bluffers-guide-to-nodeschool/README.md) to help make the event run smoothly.
+
 ## Mentors
-If you have been or are mentoring at an event, please add yourself to [mentors.md](https://github.com/nodeschool/london/blob/master/mentors.md)
+If you have previously, or are mentoring at an upcoming event, then please add yourself to [mentors.md](https://github.com/nodeschool/london/blob/master/mentors.md)
 
 ## Past Events
-Check out the events folder to see details of past event.
+Check out our [past events](https://github.com/nodeschool/london/tree/master/resources/events) for photos, videos and sponsor information.
 
 ## Catering
-If you have any catering ideas, or can provide catering to this event, please add yourself to [catering.md](https://github.com/nodeschool/london/blob/master/catering.md)
+Do you have any dietary requirements, if so, help us accomodate your needs by adding to our shopping list [catering.md](https://github.com/nodeschool/london/blob/master/catering.md)
