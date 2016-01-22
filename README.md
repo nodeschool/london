@@ -14,7 +14,7 @@ For broader news follow [@nodeschool](http://twitter.com/nodeschool)
 
 
 ## Feedback
-Did you enjoy the event? [Let us know!](https://github.com/nodeschool/london/blob/master/feedback.md) We appreciate the love, but really want to know how we can improve.
+Did you enjoy the event? [Let us know!](https://github.com/nodeschool/london/blob/master/feedback.md) We appreciate the <3, but really want to know how we can improve.
 
 ## Organizing a Nodeschool
 Please familiarize yourself with the [Bluffer's Guide](https://github.com/nodeschool/london/blob/master/resources/bluffers-guide-to-nodeschool/README.md) to help make the event run smoothly.
