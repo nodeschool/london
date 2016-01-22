@@ -10,3 +10,4 @@
 - [Simon McManus](http://twitter.com/simonmcmanus)
 - [Tim Ruffles](http://twitter.com/timruffles)
 - [Jon Kelly](http://twitter.com/jsnightowl)
+- [Samuel Rounce](http://twitter.com/samuelrounce)
